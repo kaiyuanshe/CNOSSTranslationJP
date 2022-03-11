@@ -1,6 +1,7 @@
 # 中国オープンソース研究 / ChinaOpensourceResearch
 Research about Chinese Open Source by Japanese / Chinese Tech Community.
-3月11日に https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/　から移転してきました。
+
+3月11日に[https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/] から移転してきました。
 
 # これは何のプロジェクトか #中国オープンソース
 中国のオープンソースムーブメントについて調査し、結果を共有する非営利のコミュニティです。
