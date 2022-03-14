@@ -4,18 +4,17 @@
 
 ## 白書,レポート
 
+*　作業中 [中国开源年度报告2021 中国オープンソース年度報告  (2022年01月開源社)](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2021_CNOSSReport)
+
 * [2021年開源社年度報告 （2022年02月開源社）](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2021_kaiyuanshereport) (2022年02月22日完成)
 
-
 * [中国オープンソース発展ブルーブック 2021 中国开源发展蓝皮书 （2021年04月中国OSS推進連盟）](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2021_CNOSSbluebook)(2021年07月28日完成)
-
-*　作業中 [中国开源年度报告2021 中国オープンソース年度報告  (2022年01月開源社)](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2021_CNOSSReport)
 
 * [中国开源年度报告2020 中国オープンソース年度報告  (2021年01月開源社)](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2020_CNOSSReport)
 
 * [中国オープンソースエコシステム白書2020 开源生态白皮书  (2020年10月 中国信息通信研究院)](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/2020_OSSEcosystem.md)
 
-* [中国开源年度报告2019 中国オープンソース年度報告(2020年01月開源社)](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2020_CNOSSReport)
+* [中国开源年度报告2019 中国オープンソース年度報告(2020年01月開源社)](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/2019_Kaiyuenshe_WP.md)
 
 
 ## 政府や公的機関の文書、法律
