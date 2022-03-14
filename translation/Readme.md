@@ -20,7 +20,7 @@
 
 ## 政府や公的機関の文書、法律
 
-* [中国政府教育省/情報通信省発行　「ソフトウェア開発教育カレッジ設立ガイドライン」　教育部办公厅 工业和信息化部办公厅关于印发《特色化示范性软件学院建设指南（试行）》的通知　2020年6月05日](https://github.com/kaiyuanshe/CNOSSTranslationJP/main/translation/20200605_Software_Education_College_Guideline.md)
+* [中国政府教育省/情報通信省発行　「ソフトウェア開発教育カレッジ設立ガイドライン」　教育部办公厅 工业和信息化部办公厅关于印发《特色化示范性软件学院建设指南（试行）》的通知　2020年6月05日](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/20200605_Software_Education_College_Guideline.md)
 
 *[2021年第14次五か年計画](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2021_14th5yearplan)　まだ翻訳してない　もとファイルだけ置いてある
 
