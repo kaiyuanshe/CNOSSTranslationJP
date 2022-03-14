@@ -24,8 +24,11 @@
 
 
 高須正和(TAKASU Masakazu)
+
 開源社
+
 tks@kaiyuanshe.org
+
 2022年3月15日
 
 
