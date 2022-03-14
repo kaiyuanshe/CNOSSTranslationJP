@@ -14,7 +14,7 @@
 
 * [中国オープンソースエコシステム白書2020 开源生态白皮书  (2020年10月 中国信息通信研究院)](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/2020_OSSEcosystem.md)
 
-* [中国开源年度报告2019 中国オープンソース年度報告(2020年01月開源社)](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2020_CNOSSReport)
+* [中国开源年度报告2019 中国オープンソース年度報告(2020年01月開源社)](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/2019_Kaiyuenshe_WP.md)
 
 
 ## 政府や公的機関の文書、法律
