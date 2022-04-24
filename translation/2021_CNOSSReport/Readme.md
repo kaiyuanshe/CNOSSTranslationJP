@@ -4,7 +4,7 @@
 
 2019年翻訳開始、2020年度から、日本語版も正式発布されることになった。
 
-[PDFファイル](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/2021_CNOSSReport/2021%20%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A-release-V20220129.pdf)
+[PDFファイル](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/2021_CNOSSReport/2021%20JP%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A-release-V20220129.pdf)
 
 ### 日本語
 開源社の中国開源年度報告日本語版を翻訳するのは2019年度版が最初で、この2021年度版で3年目になります。中国のオープンソース運動は、この3年間で長足の進歩を遂げました。3年間それぞれの報告で、その進歩をたどることができます。
