@@ -3,6 +3,8 @@
 　なるたけ新しいものが上、増えたらディレクトリを整理する可能性あります　このページのURLはなるべく変えないようにしたい
 
 ## 白書,レポート
+* [オープンソースソフトウェアとハードウェアがEU経済の技術的自立、競争力、イノベーションに与える影響
+  (2021年01月EU) ](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2021_EU_OSS_report)(まだ機械翻訳そのままレベル)
 
 * [中国开源年度报告2021 中国オープンソース年度報告  (2022年01月開源社) ](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2021_CNOSSReport)(2022年3月15日完成)
 
