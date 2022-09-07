@@ -419,6 +419,31 @@ Apache IoTDBと連携王建民教授(IoTDBが清華大学発)で黄向东博士�
 
 さらにOpenCV foundationというのをつくって、2021年底，华为公司正式加入OpenCV基金会、更に2021年以降は，中科院软件所、阿里平头哥公司がOpenCVのRISC-V対応、テンセントがOpenCVを使ったQRコード読み込み、さらに北京邮电大学、华中科技大学、南方科技大学等様々な大学がOpenCVのビジョンアルゴリズムに大きく貢献している。
 
+## 9.3 中国トップ企業のOSS貢献
+
+### 9.3.1 ファーウェイ
+
+Apache软件基金会、Eclipse基金会、Linux基金会、开放原子开源基金会、OIF基金会などのボードメンバーで、何十人もの社員がボードメンバー、何百人もの社員が个TSC、PMC、PTL、Maintainer、Core Committerをしている。
+
+近年はクラウドネイティブや工業自動化などでEdgeGallery、MindSpore、Karmada、openEuler、openGauss、OpenHarmonyなどをOSS化。継続的に開発を続けている
+
+### 9.3.2 アリババ
+
+2011年以来3000を超えるOSSプロジェクト　代表的なものは、Apache RocketMQ、Apache Dubbo、Spring Cloud Alibaba、Nacos、Seata、PolarDB-X、PolarDB for PostgreSQLなど。
+
+Linux基金会、CNCF基金会、Apache软件基金会、开放容器组织（OCI）、MariaDB基金会、Eclipse基金会、RISC-V基金会、开放原子开源基金会等，是Linux、MySQL、Redis、JVM、Kubernetes、containerd、Apache Flink、Envoyなどでボードメンバーやプラチナスポンサーなど
+
+RISC-Vファウンデーションでは20技術のうち7技術でチェア・副チェアをつとめ、动Linux、Vector、QEMUなどのRISC-V対応を進める。
+
+ほか、Apache Flink,Radis,Kubernetes,TensorFlow&Pytorch,OpenJDK,Eclipse,GraalIVM,Clang/LLVM などでも貢献が多い。
+
+### 9.3.3 百度
+
+
+
+
+
+
 
 
 
