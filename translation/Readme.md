@@ -3,6 +3,8 @@
 　なるたけ新しいものが上、増えたらディレクトリを整理する可能性あります　このページのURLはなるべく変えないようにしたい
 
 ## 白書,レポート
+* [全球開源生態研究報告 2022年9月 (CAICT 中国信通院)　　注目部分ピックアップ](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2022_OSS_Ecosystem)
+
 * [中国オープンソース発展ブルーブック 2022 中国开源发展蓝皮书 （2021年07月中国OSS推進連盟)](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2022_CNOSSbluebook)(全文でなくて、注目部分ピックアップ)
 
 * [オープンソースソフトウェアとハードウェアがEU経済の技術的自立、競争力、イノベーションに与える影響
