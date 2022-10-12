@@ -4,7 +4,7 @@
 
 ## 白書,レポート
 
-* [深圳市发展和改革委员会から2022/Oct/8にパブリックコメント（征求意见稿）募集開始　RISC-Vに関する補助計画](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/20221008_RISCV_SZ_Publiccomment.md)
+* [深セン市のRISC-Vに関する補助計画　パブリックコメント 2022年10月8日(深圳市发展和改革委员会)](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/20221008_RISCV_SZ_Publiccomment.md)
 
 * [全球開源生態研究報告 2022年9月 (CAICT 中国信通院)　　注目部分ピックアップ](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2022_OSS_Ecosystem)
 
