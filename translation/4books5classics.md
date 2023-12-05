@@ -10,12 +10,11 @@
 この文中の「翻訳」は、英語から中国語への翻訳を指します。
 
 
-原文：
-[https://linux.cn/article-3014-1.html](https://linux.cn/article-3014-1.html)
+原文： <https://linux.cn/article-3014-1.html>
 
 以下翻訳：
 
-著者：佟辉トンホイ、CSDNオープンソースオタク。
+著者: 佟辉(トンホイ)、CSDNオープンソースオタク。
 
 FOSS関連の書籍、論文や、オープンソースの開発者/メンテナ、オープンソースコミュニティを運営する組織、オープンソースソフトウェアのプロモーションと各オープンソースの貢献者の広報などから、中国語に翻訳されたものや英語の原文を含めて、いくつかの有用なオープンソースの本をお勧めします！
 これは、オープンソースの開発者/メンテナ、オープンソースコミュニティを運営する組織、オープンソースソフトウェアのプロモーションと各オープンソースの貢献者の出版物です。
@@ -23,13 +22,14 @@ FOSS関連の書籍、論文や、オープンソースの開発者/メンテナ
  
  ## 四書
 
-《大学》：The Cathedral and the Bazaar (Eric S. Raymond)　『[伽藍とバザール](https://cruel.org/freeware/cathedral.html)』（エリック・S・レイモンド）、中国語訳：[大教堂与市集](http://www.aka.org.cn/Docs/c&b.html)
-
-《中庸》：Producing Open Source Software (Karl Fogel) [オープンソースソフトウェアの育て方](https://producingoss.com/ja/) (Karl Fogel), 中国語訳: [如何成功运营自由软件项](https://producingoss.com/zh/) (非常に良い翻訳、お勧めです!)
-
-論語:　Free Software, Free Socialty  [フリーソフトウェアと自由な社会](https://amzn.to/2LvGhdc) (リチャード・ストールマン)
-
-孟子：[Open Sources: Voices from the Open Source Revolution]、中国語訳：[开源软件文集·开源革命之声](https://book.douban.com/subject/1236778/)
+ * 《大学》 The Cathedral and the Bazaar (Eric S. Raymond)、中国語訳『[大教堂与市集](http://www.aka.org.cn/Docs/c&b.html)』
+   * 和訳『[伽藍とバザール](https://cruel.org/freeware/cathedral.html)』
+ * 《中庸》 Producing Open Source Software (Karl Fogel)、中国語訳『[如何成功运营自由软件项](https://producingoss.com/zh/)』 (非常に良い翻訳、お勧めです!)
+   * 和訳『[オープンソースソフトウェアの育て方](https://producingoss.com/ja/)』
+ * 《論語》 Free Software, Free Socialty
+   * 和訳『[フリーソフトウェアと自由な社会](https://amzn.to/2LvGhdc)』
+ * 《孟子》 Open Sources: Voices from the Open Source Revolution、中国語訳『[开源软件文集·开源革命之声](https://book.douban.com/subject/1236778/)』
+   * 和訳『[オープンソースソフトウェア 彼らはいかにしてビジネススタンダードになったのか](https://www.oreilly.co.jp/BOOK/osp/OpenSource_Web_Version/Web_version000106.html)』
 
 伝統的な儒教によれば、四書五経と呼ばれる「四書」は、「大学」「中庸」「論語」「孟子」とも呼ばれ、この順番で、理解が容易なものから困難なものへと進行していく。 名前と順番をお借りしましたが、フリーのオープンソースの世界を読むには、この順番で読むのもおすすめです。
 
@@ -43,22 +43,27 @@ FOSS関連の書籍、論文や、オープンソースの開発者/メンテナ
 
 ## 五経
 
-《诗经》：The Art Of Community (Jono Bacon)　[アートオブコミュニティ](https://amzn.to/3siZ2Bp)
+ * 《詩経》 The Art Of Community (Jono Bacon)
+   * 和訳『[アートオブコミュニティ](https://amzn.to/3siZ2Bp)』
+ * 《尚書》 Hackers: Heroes of the Computer Revolution (Steven Levy)、中国語訳『[黑客——计算机革命的英雄](http://www.amazon.cn/%E9%BB%91%E5%AE%A2-%E9%87%8C%E5%A4%AB/dp/B005Z7FABC)』
+   * 和訳『[ハッカーズ](https://amzn.to/3oIYlyU)』
+ * 《礼記》 The Open Source Way (Red Hat)
+   * 和訳『[オープンソースソフトウェアとは](https://www.redhat.com/ja/topics/open-source/what-is-open-source-software)』
+ * 《周易》 The Magic Cauldron (Eric Raymond)、中国語訳『[魔法大熔炉](http://linuxtoy.org/archives/eric-raymond-five.html)』
+   * 和訳『[魔法のおなべ](https://cruel.org/freeware/magicpot.html)』
+ * 《春秋》 A Brief History of Hackerdom (Eric Raymond)、中国語訳『[Hacker文化简史](http://linuxtoy.org/archives/eric-raymond-five.html)』
+   * 和訳『[ハッカー界小史](https://cruel.org/freeware/hackerdom.html)』
 
-《尚书》：Hackers: Heroes of the Computer Revolution (Steven Levy) [ハッカーズ](https://amzn.to/3oIYlyU) ，中译本：《[黑客——计算机革命的英雄](http://www.amazon.cn/%E9%BB%91%E5%AE%A2-%E9%87%8C%E5%A4%AB/dp/B005Z7FABC)》 
-
-《礼记》：The Open Source Way (Red Hat)　[オープンソースソフトウェアとは](https://www.redhat.com/ja/topics/open-source/what-is-open-source-software)
-
-《周易》：The Magic Cauldron (Eric Raymond)，[魔法のおなべ](https://cruel.org/freeware/magicpot.html) 中译本：《[魔法大熔炉](http://linuxtoy.org/archives/eric-raymond-five.html)》
-
-《春秋》：A Brief History of Hackerdom (Eric Raymond)，[ハッカー界小史](https://cruel.org/freeware/hackerdom.html）　中译本：《[Hacker文化简史](http://linuxtoy.org/archives/eric-raymond-five.html)》
-
-儒教の経典では、五経は実は六経のはずで、そのうち「楽経」は秦の焚書坑儒の時に滅ぼされて何も残らなかったので、後世には五経と言われるようになっています。 ここでは、初期の標準的な五教の順序が使用されています 《诗经》、《尚书》、《礼记》、《周易》そして《春秋》。ここでの順番は、単なる参考書として、上記の四書のように厳密なものではありません。
+儒教の経典では、五経は実は六経のはずで、そのうち「楽経」は秦の焚書坑儒の時に滅ぼされて何も残らなかったので、後世には五経と言われるようになっています。 ここでは、初期の標準的な五教の順序が使用されています 《詩経》、《尚書》、《礼記》、《周易》そして《春秋》。ここでの順番は、単なる参考書として、上記の四書のように厳密なものではありません。
 
 二年前、私は誰かが「アート・オブ・コミュニティ」の中国語訳を翻訳していたと聞いたのですが、それがこれまでに出版されているかどうかは明らかではありません。（訳註：現在は出版されてます）著者は第二版を書いています、ここで与えられたリンクは初版へのものです、この本はオープンソース・コミュニティを構築し、実行するための不可欠な読書です。
+
 一方、「ハッカーズ」は非常に基本的なことから始まり、フリーソフトウェアを一緒にもたらします。 オープンソースソフトウェアのネイティブなハッカーのエートスは整理され、最終的には既存のフリーソフトウェアの開発を拾い上げます。 私はこの本はかなりの《史记》ぽさがあり、《尚书》と並んでいないと思いますが、ハッカーの世界の伝記的な歴史です。
-3冊目の本 "オープンソースソフトウェアとは "は、オープンソースでコミュニティを実行する方法についてのレッドハットのコミュニティの主な話によって編集され、非常に実用的な読書の本です。
- 4冊目の『魔法のおなべ』は、オープンソースアプリケーションを商用化するためのいくつかのモデルを探求しており、ESRはこの本の中で社会学的理論を用いて、オープンソースの商用化が成功する可能性を説明しています。
+
+3冊目の本『オープンソースソフトウェアとは』は、オープンソースでコミュニティを実行する方法についてのRed Hatのコミュニティの主な話によって編集され、非常に実用的な読書の本です。
+
+4冊目の『魔法のおなべ』は、オープンソースアプリケーションを商用化するためのいくつかのモデルを探求しており、ESRはこの本の中で社会学的理論を用いて、オープンソースの商用化が成功する可能性を説明しています。
+
 5冊目の本は、ESRが書いたハッカー道文化の年表でもあります。春秋も年表の本なので、はははは、ここに載せておきます。
 
 ## その他
@@ -83,5 +88,3 @@ The Art of UNIX Programming[日本語版](https://amzn.to/38BP5qK): Linux/UNIX�
 博文地址：https://tonghuix
 
 via ： http://code.csdn.net/news/2819730 
-
-
