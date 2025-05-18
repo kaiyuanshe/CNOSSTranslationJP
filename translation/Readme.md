@@ -4,6 +4,9 @@
 
 ## 白書,レポート
 
+* [中国开源年度报告2024 中国オープンソース年度報告  (2024年01月開源社) ](https://github.com/Nico-Tech-Shenzhen/2024-China-Open-Source-Report-jp)
+(2025年5月16日完成)
+
 * [深セン市のRISC-Vに関する補助計画　パブリックコメント 2022年10月8日(深圳市发展和改革委员会)](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/20221008_RISCV_SZ_Publiccomment.md)
 
 * [全球開源生態研究報告 2022年9月 (CAICT 中国信通院)　　注目部分ピックアップ](https://github.com/kaiyuanshe/CNOSSTranslationJP/tree/main/translation/2022_OSS_Ecosystem)
