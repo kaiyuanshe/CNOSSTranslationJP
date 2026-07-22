@@ -1,0 +1,32 @@
+zh	en	ja	note	status
+供应链	supply chain	サプライチェーン	Reusable manufacturing and industrial-policy term.	confirmed
+工信部	Ministry of Industry and Information Technology	工業情報化部	Chinese ministry; abbreviated source form.	confirmed
+工业和信息化部	Ministry of Industry and Information Technology	工業情報化部	Use the established Japanese ministry name.	confirmed
+国家发改委	National Development and Reform Commission	国家発展改革委員会	Chinese macroeconomic planning agency; common Japanese rendering.	confirmed
+开源	open source	オープンソース		confirmed
+人才培养	talent development / training	人材育成	Use in education and workforce-development contexts.	confirmed
+量产	mass production	量産	Use in manufacturing contexts.	confirmed
+落地	implementation / deployment	実用化 / 現場導入 / 実施	Choose according to context; avoid a literal rendering.	confirmed
+汽车行业稳增长工作方案（2025—2026年）	Work Plan for Stable Growth of the Automotive Industry (2025–2026)	自動車産業の安定成長に向けた作業計画（2025～2026年）	Document title requested for this translation.	confirmed
+新能源汽车	new energy vehicle	新エネルギー車	Chinese policy category covering battery-electric, plug-in hybrid, and fuel-cell vehicles.	confirmed
+智能网联汽车	intelligent connected vehicle	スマートコネクテッドカー	Use for connected vehicles incorporating automated driving, vehicle AI, and data connectivity.	confirmed
+车路云一体化	vehicle-road-cloud integration	車両・道路・クラウドの一体化	Coordinated vehicle, roadside infrastructure, and cloud-control architecture.	confirmed
+充换电设施	charging and battery-swapping facilities	充電・バッテリー交換設備	Includes both vehicle charging and traction-battery swapping.	confirmed
+动力电池	traction battery	車載用蓄電池	自動車産業政策、回収、物流、カーボンフットプリントの文脈で使用。車両機構の説明では駆動用バッテリーも可。	confirmed
+换电模式	battery-swapping model	バッテリー交換方式	Business and infrastructure model based on exchanging traction batteries.	confirmed
+汽车以旧换新	vehicle trade-in and replacement	自動車の買い替え	Use natural Japanese in prose.	confirmed
+反向开票	reverse invoicing	反向開票（買い手側による発票発行）	売り手ではなく買い手側が売り手に代わって発票を発行する中国の制度。初出時に説明を加える。	confirmed
+V2X	vehicle-to-everything	V2X	Communication between a vehicle and other vehicles, infrastructure, networks, or road users.	confirmed
+北斗系统	BeiDou Navigation Satellite System	北斗衛星測位システム	Use the common system name; BeiDou may be added when useful.	confirmed
+固态电池	solid-state battery	全固体電池	日本の自動車・蓄電池政策で一般的な表現。	confirmed
+生产一致性	conformity of production	生産の一貫性	Regulatory checks that mass-produced vehicles remain consistent with approved specifications.	confirmed
+数字化转型	digital transformation	デジタルトランスフォーメーション	DX may be used after first appearance when appropriate.	confirmed
+光储充放	photovoltaic-storage-charging-discharging	太陽光発電・蓄電・充電・放電	Integrated energy station concept.	confirmed
+车网互动	vehicle-grid interaction	車両と電力網の連携	Includes managed charging and bidirectional interaction with the power grid.	confirmed
+汽车数据出境	cross-border transfer of automotive data	自動車データの越境移転	Use in data-security and regulatory contexts.	confirmed
+OTA升级	over-the-air update	OTAアップデート	Remote software or firmware update delivered to a vehicle.	confirmed
+整车企业	vehicle manufacturer / OEM	完成車企業	Use for enterprises manufacturing complete vehicles.	confirmed
+滚装码头	roll-on/roll-off terminal	ロールオン・ロールオフターミナル	Port facility where vehicles roll directly on and off vessels.	confirmed
+联合国世界车辆法规协调论坛	World Forum for Harmonization of Vehicle Regulations	国連自動車基準調和世界フォーラム	Use WP.29 after the full name.	confirmed
+碳足迹	carbon footprint	カーボンフットプリント		confirmed
+部际协调机制	inter-ministerial coordination mechanism	省庁間調整メカニズム	Coordination mechanism among central-government ministries and agencies.	confirmed
